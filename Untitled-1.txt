@@ -1,0 +1,1 @@
+LOCALHOST = IP- 127.0.0.1 que é o ip da sua placa de rede
